@@ -218,7 +218,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {140529465,tonumber(our_id)},--Sudo users
+    sudo_users = {150575718,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -236,7 +236,7 @@ Yago Prez
 Iman Daneshi
 ]],
     help_text = [[
-لیست دستورات
+لیست دستورات😎
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 !kick [یوزرنیم|آیدی]
 شما میتونید با ریپلای هم استفاده کنید
